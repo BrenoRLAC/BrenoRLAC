@@ -1,6 +1,6 @@
 ## 👋 Hi 
 
-I'm a software engineer.
+I'm a Software Developer.
 
 Welcome to my space, where I build projects and experiment with new ideas.
 
